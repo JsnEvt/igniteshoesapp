@@ -23,7 +23,7 @@ IgniteShoesApp
 
 ## 💻 Projeto
 
-[Ignite Shoes]() é o segundo projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar uma aplicação de um ecommerce de um shopping que ENVIA NOTIFICAÇÕES para seus usuários, dando alguns feedbacks pro usuário fechar o carrinho ou adicionar novos produtos. Disponível nas plataformas Android e IOS.
+[Ignite Shoes]() é o segundo projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar uma aplicação de um ecommerce de um shopping que ENVIA NOTIFICAÇÕES para seus usuários, dando alguns feedbacks pro usuário fechar o carrinho ou adicionar novos produtos, usando o recurso de PUSH NOTIFICATION. Disponível nas plataformas Android e IOS.
 
 ## 🧪 Technologies
 
@@ -63,8 +63,6 @@ Para ver a aplicação rodando abra no emulador ou no seu próprio dispositivo!
 
 ---
 
-<p align='center'>Criado por Jason Santos</p>
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -72,9 +70,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
+Feito com 💜 by Rocketseat
+  <br/>
+Feito por Jason Everton 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jason-everton)
 </p>
-
 
 
 
