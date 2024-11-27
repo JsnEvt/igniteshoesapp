@@ -10,7 +10,60 @@
 
 ## 💻 Projeto
 
-igniteshoesapp
+IgniteShoesApp
+
+<h1 align='center'>Ignite Shoes</h1>
+
+<p align='center'>
+  <img src='https://github.com/JsnEvt/igniteshoesapp/blob/main/assets/cover.png' alt='Ignite Shoes' />
+</p>
+
+
+<br>
+
+## 💻 Projeto
+
+[Ignite Shoes]() é o segundo projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar uma aplicação de um ecommerce de um shopping que ENVIA NOTIFICAÇÕES para seus usuários, dando alguns feedbacks pro usuário fechar o carrinho ou adicionar novos produtos. Disponível nas plataformas Android e IOS.
+
+## 🧪 Technologies
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Expo](https://expo.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [ReactNative](https://reactnative.dev/)
+- [ReactNative](https://reactnative.dev/)
+- [Aynsc Storage](https://docs.expo.dev/versions/latest/sdk/async-storage)
+- [React-navigation/native](https://reactnavigation.org/docs/getting-started/)
+- [React-navigation/bottom-tabs](https://reactnavigation.org/docs/bottom-tab-navigator)
+- [Native Base](https://nativebase.io/)
+- [One Signal](https://onesignal.com/)
+- [Safe Area Context](https://docs.expo.dev/versions/latest/sdk/safe-area-context)
+- [React Native Screens](https://www.npmjs.com/package/react-native-screens)
+- [React Native SVG](https://github.com/software-mansion/react-native-svg)
+- [Expo Linking](https://docs.expo.dev/versions/latest/sdk/linking)
+
+## 🚀 Instalação
+
+```bash
+  # Clone o repositório e entre na pasta do projeto
+  $ git clone https://github.com/JsnEvt/igniteshoesapp.git
+  $ cd igniteshoesapp
+  # Instale as dependências
+  $ npm install
+  # ou
+  $ yarn install
+  # Execute a aplicação
+  $ npx expo start
+  # ou
+  $ yarn start
+```
+
+Para ver a aplicação rodando abra no emulador ou no seu próprio dispositivo!
+
+---
+
+<p align='center'>Criado por Jason Santos</p>
 
 ## 📝 Licença
 
@@ -23,16 +76,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 </p>
 
 
-<!--START_SECTION:footer-->
 
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
 
